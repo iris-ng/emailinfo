@@ -1,6 +1,6 @@
 # Email Processing Tool
 
-A command-line toolkit for processing, extracting, and visualising Outlook email archives (`.msg` and `.eml`  files).
+A command-line tool for processing, extracting, and visualising email (`.msg` and `.eml`)  files.
 
 All output files are written to an `output/` folder, which is created automatically on first run.
 
